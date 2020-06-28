@@ -10,7 +10,7 @@ then as they ask more questions about wether they want lowercase, uppercase, spe
 
 after they answer these questions their will be a randomly generated password on the screen.
 
-<img src = "assets/screenshot.jpg>
+<img src = "assets/screenshot.jpg">
  
 
 
