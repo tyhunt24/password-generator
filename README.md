@@ -12,7 +12,10 @@ after they answer these questions their will be a randomly generated password on
 
  look in the assets folder for a screenshot of the project
  
- github repo: 
+ github repo: https://github.com/tyhunt24/password-generator
+ 
+ website url: https://tyhunt24.github.io/password-generator/
+
 
 
 
